@@ -1,6 +1,6 @@
 package ca.fresher;
 import junit.framework.*;
-public class testClass extends TestCase{
+public class TestClass extends TestCase{
 
 	public void testPositive1()
 	{
